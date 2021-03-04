@@ -10,6 +10,12 @@
 <a href="https://github.com/Lod55/mesto-react">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=light" />
 </a>
+<a href="https://github.com/Lod55">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod55&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Lod55">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lod55&show_icons=true&theme=light&line_height=27" alt="Artyom's github stats"/>
+</a>
 
 <div align="center">
   
