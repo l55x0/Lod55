@@ -5,6 +5,11 @@
 -  📫 How to reach me: telegram (@lodkin55), email (lodkin55@yandex.ru)
 -  💬 I will be glad of any feedback
 
+### Github Stats:
+
+<a href="https://github.com/Lod55/mesto-react">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=light" />
+</a>
 
 <div align="center">
   
