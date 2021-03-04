@@ -8,13 +8,13 @@
 ### Github Stats:
 
 <a href="https://github.com/Lod55">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lod55&show_icons=true&theme=tokyonight&line_height=27" alt="Artyom's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lod55&show_icons=true&theme=vision-friendly-dark&line_height=27" alt="Artyom's github stats"/>
 </a>
 <a href="https://github.com/Lod55">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod55&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod55&theme=vision-friendly-dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Lod55/mesto-react">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=vision-friendly-dark" />
 </a>
 
 <div align="center">
