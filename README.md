@@ -1,16 +1,6 @@
-### Hi there 👋, i'm Artyom - also known as a novice programmer
-
-<!--
-**Lod55/Lod55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 👋 Hi there, i'm Artyom - also known as a novice programmer
 
 - :books: I am currently a student of Yandex.Practicum
 - :computer: I’m currently learning <img align="left" alt="Сodewars" src="https://www.codewars.com/users/Lod55/badges/micro" />
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📫 How to reach me: telegram (@lodkin55), email (lodkin55@yandex.ru)
+-  💬 I will be glad of any feedback
