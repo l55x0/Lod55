@@ -17,7 +17,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=vue" />
 </a>
 <a href="https://github.com/Lod55/react-mesto-api-full">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=vue" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=react-mesto-api-full&theme=vue" />
 </a>
 
 <div align="center">
