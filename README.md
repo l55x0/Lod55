@@ -13,13 +13,6 @@
 <a href="https://github.com/Lod55">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod55&theme=vue&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Lod55/mesto-react">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=mesto-react&theme=vue" />
-</a>
-<a href="https://github.com/Lod55/react-mesto-api-full">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lod55&repo=react-mesto-api-full&theme=vue" />
-</a>
-
 <div align="center">
   
 ### Support a novice developer with an :star: asterisk :star: thank you!
