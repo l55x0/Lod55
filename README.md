@@ -12,7 +12,7 @@
 ```javascript
 const lod55 = {
   code: [JavascriptES6, CSS, HTML5],
-  tools: [React, Node, Express, Jest, Docker, MongoDB, Git, Figma, SCSS],
+  tools: [React, Node, Express, Jest, Docker, MongoDB, Git, Figma, SCSS, Postman, Photoshop],
   architecture: ["Progressive web applications", "Single page applications"],
 };
 ```
