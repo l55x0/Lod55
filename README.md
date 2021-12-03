@@ -11,9 +11,13 @@
 
 ```javascript
 const lod55 = {
-  code: [javascript, CSS, HTML],
-  tools: [react, node, express, docker, mongoDB, git, figma, SCSS, postman, typeScript, styledComponents, redux, next.js, nestJS],
-  architecture: ["Progressive web applications", "Single page applications"],
+  code: ['JavaScript', 'CSS', 'HTML'],
+  tools: {
+    frontend: ['React',  'Next.js', 'SCSS', 'styled-components', 'Redux', 'Webpack', 'Web DevTools'],
+    backend: ['Node.js', 'Express', 'NestJS', 'MongoDB'],
+    dev: ['Git', 'TypeScript', 'Docker', 'Figma', 'Postman'],
+  },
+  architecture: ['Progressive web applications', 'Single page applications'],
 };
 ```
 
