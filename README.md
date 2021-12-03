@@ -11,8 +11,8 @@
 
 ```javascript
 const lod55 = {
-  code: [Javascript, CSS, HTML],
-  tools: [React, Node, Express, Jest, Docker, MongoDB, Git, Figma, SCSS, Postman, Photoshop],
+  code: [javascript, CSS, HTML],
+  tools: [react, node, express, docker, mongoDB, git, figma, SCSS, postman, typeScript, styledComponents, redux, next.js, nestJS],
   architecture: ["Progressive web applications", "Single page applications"],
 };
 ```
