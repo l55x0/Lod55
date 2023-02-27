@@ -11,28 +11,12 @@
 
 ```javascript
 const lod55 = {
-  code: ['JavaScript', 'CSS', 'HTML'],
+  code: ['JavaScript', 'CSS', 'HTML5'],
   tools: {
-    frontend: ['React',  'Next.js', 'SCSS', 'styled-components', 'Redux', 'Webpack', 'Web DevTools'],
+    frontend: ['React.js', 'Next.js', 'SCSS', 'styled-components', 'Redux', 'Webpack', 'Recoil', 'Material UI'],
     backend: ['Node.js', 'Express', 'NestJS', 'MongoDB'],
-    dev: ['Git', 'TypeScript', 'Docker', 'Figma', 'Postman'],
+    dev: ['Git', 'TypeScript', 'Docker', 'Figma', 'Postman', 'Web DevTools'],
   },
   architecture: ['Progressive web applications', 'Single page applications'],
 };
 ```
-
-### Projects and Dev Stuffs:
-
-
-<details>	
-  <summary><b>⚡Github Stats</b></summary>
-
-<img height="180em" width='50%' src="https://github-readme-stats.vercel.app/api?username=lod55&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lod55&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lod55&theme=tokyonight&hide_border=true" />
-</details>
